@@ -1,3 +1,10 @@
+/* Author: Michael Coleman
+Course: CSCI-135
+Instructor: Genady Maryash
+Assignment: HW E3.5
+
+This program reads three numbers and prints “increasing” if they are in increasing order, “decreasing” if they are in decreasing order, and “neither” otherwise.
+  */
 #include <iostream>
 
 int main() {
