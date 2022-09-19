@@ -9,7 +9,7 @@ int main() {
   std::cin >> num2;
   std::cin >> num3;
 
-  if (num3 > num2 && num3 > num1){
+  if (num3 > num2 && num2 > num1){
     std::cout << "Increasing \n";
   }
   else if (num1 > num2 && num2 > num3){
